@@ -1,0 +1,18 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.pdb

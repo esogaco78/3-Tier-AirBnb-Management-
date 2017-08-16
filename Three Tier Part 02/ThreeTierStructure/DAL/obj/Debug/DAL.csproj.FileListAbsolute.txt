@@ -1,0 +1,9 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\lenovo\Desktop\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
